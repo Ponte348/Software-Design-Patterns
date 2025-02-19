@@ -1,0 +1,26 @@
+algorithm   9    10,15 Up
+debugging   9    10,13 Left
+compiler    8    9,3  UpRight
+variable    8    15,8 UpLeft
+function    8    8,6  Right
+loop        4    14,6 UpLeft
+object      6    13,10 Right
+class       5    2,11 DownLeft
+interface   9    4,14 Down
+inheritance 11   1,15 Left
+
+....ECNATIREHNI
+.........RC...M
+........EL....H
+.......LA....IT
+......IS.....NI
+.....PS......TR
+....M........EO
+E..O.FUNCTIONRG
+.LC..........FL
+..B.GNIGGUBEDAA
+..PA.........C.
+...OI........E.
+....OR...OBJECT
+.....LA........
+.......V.......

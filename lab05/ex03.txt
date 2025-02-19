@@ -1,0 +1,10 @@
+Ao olhar para a implementação podemos observar os seguintes padrões:
+    - Singleton: O construtor da classe é protected o que significa
+que só é possível obter uma instância da classe através do método 
+static getInstance().
+    - Factory: Temos o método createCalendar que pode receber como argumentos
+por exemplo o tipo de calendário e retornar uma instância do calendário 
+especificado.
+    - Builder: A classe Calendar oferece métodos para a construção de um 
+calendário, como por exemplo setTimeZone e setFirstDayOfWeek que permitem
+uma construção passo a passo do objeto.

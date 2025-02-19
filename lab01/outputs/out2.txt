@@ -1,0 +1,31 @@
+encapsulation   13   6,3  Down
+polymorphism    12   4,19 Left
+abstraction     11   2,20 Down
+array           5    16,11 Down
+recursion       9    9,11 UpLeft
+exception       9    10,10 Right
+thread          6    17,16 UpLeft
+synchronization 15   16,2 Up
+package         7    13,1 Down
+module          6    11,19 DownLeft
+
+..N.................
+.N.O...............A
+.O..I..............B
+.I...S.MSIHPROMYLOPS
+.T....R............T
+.AE....U...........R
+.ZN.....C..........A
+.IC......E.........C
+.NA.......R........T
+.OP......EXCEPTION.I
+.RS...............MO
+.HU.......D......O.N
+PCL........A....D...
+ANA.........E..U....
+CYT..........RL.....
+KSI.......A..EH.....
+A.O.......R....T....
+G.N.......R.........
+E.........A.........
+..........Y.........

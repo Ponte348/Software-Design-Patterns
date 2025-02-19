@@ -1,0 +1,20 @@
+programming 11   2,1  DownRight
+java        4    8,4  Left
+words       5    1,10 Left
+lines       5    11,7 UpRight
+civil       5    4,8  Right
+test        4    2,7  Right
+stack       5    6,7  DownRight
+
+.....SDROW..
+P.....TEST..
+.R..........
+..O....CIVIL
+...G........
+....R.S.....
+.....A.T..S.
+AVAJ..M.AE..
+.......MNC..
+.......II.K.
+......L..N..
+..........G.

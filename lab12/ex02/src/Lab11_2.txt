@@ -1,0 +1,16 @@
+Na classe java.io.Writer é possível identificar o padrão Template Method.
+Nesta classe estão presentes os métodos abstratos "Write()", "Flush()" e "close()",
+que deverão ser implementados pelo programa, e apresenta também vários métodos concretos,
+como write(String str) e write(int c). Estes métodos chamam, por sua vez, o método abstratos
+write(char[] cbuf, int off, int len). Esta sepração de um algoritmo de escrita em vários métodos
+(uns abstratos, uns concretos), é uma clara utilização do método template method.
+
+De maneira análoga, a classe java.io.Reader apresenta um algoritmo de leitura também dividido
+em diferentes métodos (método abstrato: read(char[] cbuf, int off, int len), método concreto read(char[] cbuf)).
+Tal como na classe java.io.writer é evidente aqui a utilização do padrão.
+
+A classe java.util.AbstractList também apresenta uma implementação deste padrão, divindo o seu
+algoritmo em vários métodos e dando a possibilidade de métodos serem "override" de modo a cobrir
+as necessidades do utilizador. Nesta classe temos os métodos     abstract public E get(int index) e abstract public int size(),
+métodos abstratos a serem implementados, e vários métodos concretos como public boolean add(E e) e public E remove(int index).
+Estes últimos dois podem ser "override" de modo a suportar eventuais mudanças realizadas à classe.

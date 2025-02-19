@@ -1,0 +1,1 @@
+encapsulation, polymorphism, abstraction, array, recursion, exception, thread, synchronization, package, module

@@ -1,0 +1,27 @@
+/home/ponte/Uni/PDS/practical-gp115/lab13/ex01/src
+2024/06/04 22:47:13
+
+Question 1) ----------------------------------
+
+--- All Products :
+Car - Code: ZA11ZB; Description: Tesla, Grey, 2021; Points: 100.0
+Van - Code: AA22BB; Description: Chevrolet Chevy, 2020; Points: 180.0
+Motorcycle - Code: ZA33ZB; Description: Touring, 750, 2022; Points: 85.0
+Car - Code: BB44ZB; Description: Ford Mustang, Red, 2021; Points: 150.0
+--- Shared Products :
+
+Car - Code: ZA11ZB; Description: Tesla, Grey, 2021; Points: 100.0
+Motorcycle - Code: ZA33ZB; Description: Touring, 750, 2022; Points: 85.0
+Car - Code: BB44ZB; Description: Ford Mustang, Red, 2021; Points: 150.0
+--- Shared Products :
+
+Motorcycle - Code: ZA33ZB; Description: Touring, 750, 2022; Points: 85.0
+--- All Products :
+Car - Code: ZA11ZB; Description: Tesla, Grey, 2021; Points: 100.0
+Van - Code: AA22BB; Description: Chevrolet Chevy, 2020; Points: 180.0
+Motorcycle - Code: ZA33ZB; Description: Touring, 750, 2022; Points: 85.0
+Car - Code: BB44ZB; Description: Ford Mustang, Red, 2021; Points: 150.0
+Jeep [data=null]
+
+Question 2 (output example) ----------------------------------
+

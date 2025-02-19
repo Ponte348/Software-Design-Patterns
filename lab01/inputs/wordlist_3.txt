@@ -1,0 +1,1 @@
+algorithm, debugging, compiler, variable, function, loop, object, class, interface, inheritance
